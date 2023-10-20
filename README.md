@@ -1,3 +1,4 @@
+# READ ME
 Floor plan identification on image / PDF file
 
 The main idea of the algorithm is contour detection for both texts and rooms.
@@ -22,3 +23,6 @@ Limitations of algorithm:
 1. Number of parameters that require tuning and understanding (not generalized for all floor plans)
 2. Lack of symbol detection and removal (e.g. furniture)
 3. Does not split large rooms that contain multiple labels
+
+# HOW TO RUN ON GOOGLE COLAB
+All you need to do is to run the cells inside the file AEFP.ipynb one by one.
